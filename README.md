@@ -1,6 +1,6 @@
 # Blinkit Clone - Frontend  
 
-This project is a frontend-only clone of **Blinkit**, a popular grocery delivery platform, created using **HTML** and **CSS**. It focuses on replicating the visual design, layout, and responsiveness of the Blinkit website.
+This project is a only frontend clone of **Blinkit**, a popular grocery delivery platform, created using **HTML** and **CSS**. It focuses on replicating the visual design, layout, and responsiveness of the Blinkit website.
 
 ---
 
