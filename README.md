@@ -21,4 +21,3 @@ This project is a only frontend clone of **Blinkit**, a popular grocery delivery
 
 ---
 
-## 📂 Project Structure  
