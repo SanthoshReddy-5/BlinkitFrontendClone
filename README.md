@@ -19,5 +19,3 @@ This project is a only frontend clone of **Blinkit**, a popular grocery delivery
 - **HTML**: For structuring the pages.  
 - **CSS**: For styling and layout, including responsive designs.
 
----
-
