@@ -4,7 +4,7 @@ This project is a only frontend clone of **Blinkit**, a popular grocery delivery
 
 ---
 
-### Screenshot
+## 🖼️ Screenshot
 
 ![Screenshot 2025-03-08 150827](https://github.com/user-attachments/assets/ae4b9cb5-6d61-414b-8a4a-a7856fa9e41d)
 
@@ -27,7 +27,7 @@ This project is a only frontend clone of **Blinkit**, a popular grocery delivery
 
 ---
 
-## License
+## 📜 License
 
 This project is for educational purposes only and is not affiliated with Blinkit.
 
